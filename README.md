@@ -1,2 +1,2 @@
 # Chopshop
-NLP to cut boring journal mining and other unwanted writing stuff
+Using Python and language processing to cut boring journal mining and other unwanted writing stuff
